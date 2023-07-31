@@ -26,7 +26,5 @@ if Change_Colour == 'yes':
     Justin.change_colour()
 else:
     print("Thank you.")
-# Justin.change_colour()
-# yes, excellent start
-# would suggest asking for input here,
-# then calling change_color passing in a value
+
+#rebuilt the entire repository after hard resetting it all and deleting to get rid of my repositories within repositories hahaha
